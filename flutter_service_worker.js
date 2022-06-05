@@ -13,9 +13,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"index.html": "0a71e431cd74a5409e5f7d18a010d48e",
-"/": "0a71e431cd74a5409e5f7d18a010d48e",
-"main.dart.js": "ed80022abe8879ee6e431eec6785e388",
+"index.html": "30da2fbfb98b39c3cb3781118d710413",
+"/": "30da2fbfb98b39c3cb3781118d710413",
+"main.dart.js": "9c85bbb7c54083f6d01643988920242e",
 "manifest.json": "8478096a6ef35bc6bdc4dbfba915fcb1",
 "version.json": "474e4331697f5897b626df9440265a57"
 };
