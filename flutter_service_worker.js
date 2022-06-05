@@ -8,14 +8,9 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "a806ce0e4e5c743c1321b9e0f3b3f67b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"index.html": "30da2fbfb98b39c3cb3781118d710413",
-"/": "30da2fbfb98b39c3cb3781118d710413",
-"main.dart.js": "9c85bbb7c54083f6d01643988920242e",
+"index.html": "4f6a3c240375d5819873f0284e1d0985",
+"/": "4f6a3c240375d5819873f0284e1d0985",
+"main.dart.js": "373ee744e0fcb958d7c807e2f43ac7cd",
 "manifest.json": "8478096a6ef35bc6bdc4dbfba915fcb1",
 "version.json": "474e4331697f5897b626df9440265a57"
 };
